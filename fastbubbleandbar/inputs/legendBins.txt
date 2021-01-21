@@ -1,3 +1,0 @@
-category	bin_separators
-Depth	[20,26]
-sulfide_uM	[400,2000]
