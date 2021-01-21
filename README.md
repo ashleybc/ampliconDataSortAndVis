@@ -1,3 +1,3 @@
 # ampliconDataSortAndVis
-python scripts to manipulate and visualize amplicon data
+python scripts to quickly manipulate and visualize amplicon relative abundance data
 Mostly using metadata, OTU table, etc files
